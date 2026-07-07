@@ -52,18 +52,3 @@ Execute o chat:
 python chat.py
 ```
 
----
-
-## Fluxo
-
-```
-Documentos
-   ↓
-Embeddings
-   ↓
-Qdrant
-   ↓
-Groq
-   ↓
-Resposta
-```

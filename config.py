@@ -13,8 +13,8 @@ COLLECTION_NAME = "documentos"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 #configuração dos chunks
-CHUNK_SIZE = 500
-CHUNK_OVERLAP = 50
+CHUNK_SIZE = 700
+CHUNK_OVERLAP = 100
 
 # qtd de documentos retornados na busca
-TOP_K = 3
+TOP_K = 8
