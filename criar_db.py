@@ -1,5 +1,4 @@
 from langchain_qdrant import QdrantVectorStore
-from qdrant_client import QdrantClient
 
 from config import COLLECTION_NAME, QDRANT_LOCATION
 from utils.loaders import carregar_documentos
