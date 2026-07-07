@@ -1,0 +1,244 @@
+DBA ONLINE
+Manual de Recursos Humanos
+Políticas, Benefícios e Perguntas Frequentes (FAQ)
+Documento fictício para fins de teste e treinamento
+Versão 1.0 — 2026
+
+SUMÁRIO
+1. Sobre a Empresa
+2. Jornada de Trabalho e Modelo de Trabalho
+3. Contratação e Onboarding
+4. Remuneração e Benefícios
+5. Férias e Licenças
+6. Avaliação de Desempenho e Carreira
+7. Treinamento e Desenvolvimento
+8. Conduta, Ética e Convivência
+9. Desligamento
+10. Perguntas Frequentes (FAQ) — Geral
+11. Perguntas Frequentes (FAQ) — Benefícios
+12. Perguntas Frequentes (FAQ) — Home Office e TI
+13. Perguntas Frequentes (FAQ) — Carreira e Desenvolvimento
+14. Diversidade, Equidade e Inclusão
+15. Saúde, Segurança e Bem-Estar no Trabalho
+16. Programa de Indicação e Reconhecimento
+17. Política de Sustentabilidade e Responsabilidade Social
+18. Perguntas Frequentes (FAQ) — Diversidade, Saúde e Reconhecimento
+
+1. SOBRE A EMPRESA
+
+A DBA Online é uma empresa fictícia de tecnologia da informação, especializada em desenvolvimento de software, infraestrutura em nuvem e soluções de inteligência artificial para clientes corporativos. Fundada em 2015, a empresa conta atualmente com mais de 800 colaboradores distribuídos entre as unidades de São Paulo, Belo Horizonte e Lisboa, além de um contingente significativo em regime remoto.
+
+A missão da empresa é entregar soluções tecnológicas de alta qualidade, promovendo um ambiente de trabalho colaborativo, diverso e orientado a resultados. Este manual reúne as principais políticas de Recursos Humanos, benefícios oferecidos e respostas às dúvidas mais comuns dos colaboradores.
+
+2. JORNADA DE TRABALHO E MODELO DE TRABALHO
+
+A jornada padrão é de 40 horas semanais, distribuídas de segunda a sexta-feira, com horário flexível de entrada entre 7h e 10h, desde que respeitada a carga horária diária de 8 horas e o intervalo mínimo de 1 hora para almoço.
+
+A empresa adota o modelo híbrido como padrão para as equipes de desenvolvimento, com 2 dias presenciais obrigatórios por semana (terça e quinta-feira). Equipes de suporte a clientes internacionais e áreas de infraestrutura crítica podem seguir escalas diferenciadas, definidas junto à liderança direta.
+
+Colaboradores que residem a mais de 100 km de qualquer unidade física podem solicitar o regime 100% remoto, mediante aprovação do gestor e da área de RH.
+
+3. CONTRATAÇÃO E ONBOARDING
+
+O processo seletivo padrão envolve: triagem curricular, teste técnico (quando aplicável), entrevista com o RH, entrevista técnica com a liderança da área e, em posições sênior ou de liderança, uma entrevista final com a diretoria.
+
+Todo novo colaborador passa por um programa de onboarding de duas semanas, que inclui apresentação da cultura organizacional, treinamentos de segurança da informação, configuração de equipamentos e acessos, e acompanhamento próximo de um "buddy" (colega padrinho) durante os primeiros 30 dias.
+
+O período de experiência é de 90 dias, dividido em dois ciclos de 45 dias, com avaliação formal ao final de cada ciclo.
+
+4. REMUNERAÇÃO E BENEFÍCIOS
+
+A remuneração é composta por salário-base, benefícios fixos e, para determinadas posições, remuneração variável atrelada a metas individuais e de equipe (PLR).
+
+Benefício: Vale-refeição/alimentação — Detalhes: R$ 1.100,00 mensais, creditados no 5º dia útil
+Benefício: Plano de saúde — Detalhes: Cobertura nacional, extensível a dependentes, sem coparticipação em consultas
+Benefício: Plano odontológico — Detalhes: Cobertura nacional, extensível a dependentes
+Benefício: Vale-transporte ou auxílio-mobilidade — Detalhes: Conforme necessidade do colaborador
+Benefício: Auxílio home office — Detalhes: R$ 150,00 mensais para colaboradores em regime remoto ou híbrido
+Benefício: Gympass / auxílio bem-estar — Detalhes: Acesso a academias e apps de saúde mental parceiros
+Benefício: Seguro de vida em grupo — Detalhes: Custeado integralmente pela empresa
+Benefício: Day off de aniversário — Detalhes: Um dia de folga na semana do aniversário
+Benefício: Previdência privada — Detalhes: Contribuição da empresa a partir de 1 ano de casa
+Benefício: Auxílio-creche — Detalhes: Para filhos de até 6 anos, mediante comprovação
+
+5. FÉRIAS E LICENÇAS
+
+As férias seguem a legislação vigente: 30 dias corridos por ano de trabalho, podendo ser fracionadas em até três períodos, sendo que um deles não pode ser inferior a 14 dias corridos. O agendamento deve ser feito com pelo menos 60 dias de antecedência junto ao gestor direto.
+
+Licença-maternidade: 180 dias, conforme adesão ao programa Empresa Cidadã. Licença-paternidade: 20 dias corridos. Licença-luto: 3 dias úteis para parentes de primeiro grau ou cônjuge.
+
+6. AVALIAÇÃO DE DESEMPENHO E CARREIRA
+
+A avaliação de desempenho ocorre semestralmente, no modelo 90 graus (autoavaliação e avaliação do gestor), complementado por feedback 360 graus uma vez ao ano, com a participação de pares e, quando aplicável, liderados.
+
+O plano de carreira da DBA Online é estruturado em trilhas técnica e de gestão, permitindo que o colaborador escolha o caminho mais alinhado ao seu perfil, sem perda de nível hierárquico ou remuneração equivalente.
+
+7. TREINAMENTO E DESENVOLVIMENTO
+
+Todo colaborador possui uma verba anual de R$ 3.000,00 para cursos, certificações e eventos técnicos, mediante aprovação prévia do gestor. A empresa também oferece trilhas internas de aprendizagem em parceria com plataformas como Alura, Coursera e Pluralsight.
+
+8. CONDUTA, ÉTICA E CONVIVÊNCIA
+
+A DBA Online possui tolerância zero a qualquer forma de assédio, discriminação ou preconceito. Casos devem ser reportados ao Canal de Ética, que garante sigilo e não retaliação ao denunciante. O uso de recursos corporativos (e-mail, notebook, VPN) deve seguir a Política de Segurança da Informação, vedado o uso para fins pessoais que comprometam a segurança dos dados da empresa ou de clientes.
+
+9. DESLIGAMENTO
+
+Em caso de desligamento, sem ou com justa causa, o colaborador passa por uma entrevista de desligamento conduzida pelo RH. Equipamentos, crachás e acessos devem ser devolvidos até o último dia de trabalho. O aviso prévio segue a legislação vigente, podendo ser trabalhado ou indenizado, conforme acordo entre as partes.
+
+10. PERGUNTAS FREQUENTES (FAQ) — GERAL
+
+P: Qual é a jornada de trabalho padrão na DBA Online?
+R: 40 horas semanais, de segunda a sexta-feira, com entrada flexível entre 7h e 10h e 1 hora de intervalo para almoço.
+
+P: A empresa trabalha com modelo híbrido, presencial ou remoto?
+R: O modelo padrão é híbrido, com 2 dias presenciais obrigatórios (terça e quinta-feira). O 100% remoto pode ser solicitado por colaboradores que morem a mais de 100 km de uma unidade.
+
+P: Quanto tempo dura o período de experiência?
+R: 90 dias, divididos em dois ciclos de 45 dias, com avaliação formal ao final de cada ciclo.
+
+P: Como funciona o programa de onboarding?
+R: Tem duração de duas semanas e inclui apresentação da cultura, treinamentos de segurança da informação, configuração de acessos e acompanhamento de um colega padrinho (buddy) por 30 dias.
+
+P: Quantos dias de férias o colaborador tem direito por ano?
+R: 30 dias corridos por ano trabalhado, podendo ser fracionados em até três períodos, sendo um deles de no mínimo 14 dias.
+
+P: Com quanto tempo de antecedência as férias devem ser agendadas?
+R: Com pelo menos 60 dias de antecedência, junto ao gestor direto.
+
+P: Qual é a duração da licença-maternidade?
+R: 180 dias, conforme adesão da empresa ao programa Empresa Cidadã.
+
+P: Qual é a duração da licença-paternidade?
+R: 20 dias corridos.
+
+P: A empresa oferece licença-luto?
+R: Sim, 3 dias úteis para falecimento de parentes de primeiro grau ou cônjuge.
+
+P: Com que frequência ocorre a avaliação de desempenho?
+R: Semestralmente, no modelo autoavaliação mais avaliação do gestor, com feedback 360 graus uma vez ao ano.
+
+P: Existe plano de carreira estruturado?
+R: Sim, com trilhas técnica e de gestão, permitindo migração entre elas sem perda de nível ou remuneração equivalente.
+
+P: Como funciona o processo de desligamento?
+R: Inclui entrevista de desligamento com o RH, devolução de equipamentos e acessos até o último dia, e aviso prévio conforme legislação vigente.
+
+P: Onde reportar casos de assédio ou discriminação?
+R: No Canal de Ética da empresa, que garante sigilo e não retaliação ao denunciante.
+
+11. PERGUNTAS FREQUENTES (FAQ) — BENEFÍCIOS
+
+P: Qual é o valor do vale-refeição/alimentação?
+R: R$ 1.100,00 mensais, creditados no 5º dia útil de cada mês.
+
+P: O plano de saúde cobre dependentes?
+R: Sim, o plano de saúde e o odontológico têm cobertura nacional e podem ser estendidos a dependentes.
+
+P: Há coparticipação no plano de saúde?
+R: Não há coparticipação em consultas médicas.
+
+P: Existe algum auxílio para quem trabalha em home office?
+R: Sim, um auxílio de R$ 150,00 mensais para colaboradores em regime remoto ou híbrido.
+
+P: A empresa oferece algum benefício de bem-estar ou academia?
+R: Sim, por meio de parceria com Gympass e aplicativos de saúde mental.
+
+P: Existe seguro de vida?
+R: Sim, seguro de vida em grupo custeado integralmente pela empresa.
+
+P: O que é o day off de aniversário?
+R: Um dia de folga concedido na semana do aniversário do colaborador.
+
+P: A empresa oferece previdência privada?
+R: Sim, com contribuição da empresa a partir de 1 ano de casa.
+
+P: Existe auxílio-creche?
+R: Sim, para filhos de até 6 anos, mediante comprovação.
+
+P: Existe remuneração variável (PLR)?
+R: Sim, para determinadas posições, atrelada a metas individuais e de equipe.
+
+12. PERGUNTAS FREQUENTES (FAQ) — HOME OFFICE E TI
+
+P: Quais dias da semana são presenciais no modelo híbrido?
+R: Terça-feira e quinta-feira são os dias presenciais obrigatórios para equipes de desenvolvimento.
+
+P: Quem pode solicitar o regime 100% remoto?
+R: Colaboradores que residem a mais de 100 km de qualquer unidade física, mediante aprovação do gestor e do RH.
+
+P: Equipes de suporte e infraestrutura seguem o mesmo horário das demais áreas?
+R: Não necessariamente; podem seguir escalas diferenciadas definidas junto à liderança direta, devido à natureza crítica do trabalho.
+
+P: O que rege o uso de notebook, e-mail e VPN corporativos?
+R: A Política de Segurança da Informação, que veda o uso desses recursos para fins pessoais que comprometam dados da empresa ou de clientes.
+
+P: O que acontece com o equipamento de trabalho após o desligamento?
+R: Deve ser devolvido, junto com crachás e acessos, até o último dia de trabalho do colaborador.
+
+13. PERGUNTAS FREQUENTES (FAQ) — CARREIRA E DESENVOLVIMENTO
+
+P: Qual é o valor da verba anual para treinamento?
+R: R$ 3.000,00 por colaborador, para cursos, certificações e eventos técnicos, mediante aprovação do gestor.
+
+P: Quais plataformas de ensino a empresa tem parceria?
+R: Alura, Coursera e Pluralsight, além de trilhas internas de aprendizagem.
+
+P: É possível migrar da trilha técnica para a trilha de gestão?
+R: Sim, o colaborador pode escolher o caminho mais alinhado ao seu perfil, sem perda de nível hierárquico ou remuneração equivalente.
+
+P: Quem participa do feedback 360 graus?
+R: O próprio colaborador, o gestor, pares e, quando aplicável, liderados.
+
+P: A avaliação de desempenho impacta a remuneração?
+R: Sim, ela é um dos critérios considerados para promoções e ajustes salariais, junto às metas de PLR quando aplicável.
+
+14. DIVERSIDADE, EQUIDADE E INCLUSÃO
+
+A DBA Online mantém o Comitê de Diversidade e Inclusão, formado por representantes voluntários de diferentes áreas, responsável por propor e acompanhar ações afirmativas dentro da empresa. Atualmente, a empresa possui grupos de afinidade voltados a mulheres na tecnologia, pessoas negras, comunidade LGBTQIAPN+ e pessoas com deficiência, que se reúnem mensalmente e têm apoio direto da liderança de RH.
+
+Todas as vagas abertas passam por revisão de linguagem inclusiva antes da publicação, e processos seletivos para posições de liderança devem obrigatoriamente incluir ao menos uma pessoa de grupo sub-representado entre os finalistas, sempre que houver candidatos qualificados disponíveis.
+
+A empresa também mantém política de equiparação salarial, com auditoria anual conduzida por consultoria externa para identificar e corrigir eventuais disparidades de remuneração entre colaboradores que exercem funções equivalentes.
+
+15. SAÚDE, SEGURANÇA E BEM-ESTAR NO TRABALHO
+
+Todas as unidades físicas da DBA Online contam com a Comissão Interna de Prevenção de Acidentes (CIPA), eleita anualmente pelos colaboradores, responsável por identificar riscos ergonômicos e ambientais e propor melhorias nos postos de trabalho.
+
+A empresa oferece acompanhamento psicológico gratuito e confidencial por meio de parceria com plataforma especializada, com até 6 sessões por semestre por colaborador, além de campanhas trimestrais de conscientização sobre saúde mental, como a Semana do Bem-Estar.
+
+Colaboradores em regime remoto ou híbrido recebem, no primeiro mês de contratação, um kit de ergonomia composto por apoio para notebook, suporte de monitor e cadeira ergonômica, mediante disponibilidade de estoque e análise da liderança de facilities.
+
+16. PROGRAMA DE INDICAÇÃO E RECONHECIMENTO
+
+O Programa "Indique um Talento" prevê bonificação de R$ 2.000,00 ao colaborador que indicar um candidato aprovado para vagas técnicas, pagos após a confirmação do período de experiência do indicado. Para vagas de liderança, o valor sobe para R$ 3.500,00.
+
+Mensalmente, a empresa reconhece publicamente colaboradores destaque através do programa "Reconhecer DBA", com votação interna entre pares, sendo os vencedores premiados com day off adicional e menção no informativo interno da empresa.
+
+17. POLÍTICA DE SUSTENTABILIDADE E RESPONSABILIDADE SOCIAL
+
+A DBA Online mantém o programa "DBA Verde", com metas de redução de consumo de papel e energia nas unidades físicas, além de incentivo ao descarte correto de equipamentos eletrônicos obsoletos através de parcerias com cooperativas de reciclagem.
+
+Colaboradores podem destinar até 8 horas mensais, dentro da jornada de trabalho, para atividades de voluntariado corporativo em instituições parceiras, sem prejuízo de remuneração, mediante cadastro prévio no programa "Hora do Bem".
+
+18. PERGUNTAS FREQUENTES (FAQ) — DIVERSIDADE, SAÚDE E RECONHECIMENTO
+
+P: A empresa possui grupos de afinidade para diversidade?
+R: Sim, grupos voltados a mulheres na tecnologia, pessoas negras, comunidade LGBTQIAPN+ e pessoas com deficiência, com reuniões mensais.
+
+P: Existe auditoria de equidade salarial?
+R: Sim, realizada anualmente por consultoria externa para identificar e corrigir disparidades entre funções equivalentes.
+
+P: A empresa oferece apoio psicológico?
+R: Sim, até 6 sessões gratuitas e confidenciais por semestre, por meio de plataforma parceira especializada.
+
+P: Quem recebe o kit de ergonomia para home office?
+R: Colaboradores em regime remoto ou híbrido, no primeiro mês de contratação, mediante disponibilidade de estoque.
+
+P: Como funciona o programa de indicação de talentos?
+R: O colaborador recebe R$ 2.000,00 por indicação aprovada em vagas técnicas (R$ 3.500,00 para lideranças), pago após confirmação do período de experiência do indicado.
+
+P: O que é o programa "Reconhecer DBA"?
+R: Um reconhecimento mensal a colaboradores destaque, escolhidos por votação entre pares, premiados com day off adicional.
+
+P: A empresa permite voluntariado dentro da jornada de trabalho?
+R: Sim, até 8 horas mensais por meio do programa "Hora do Bem", sem prejuízo de remuneração.
